@@ -10,9 +10,6 @@
 - facebook:
   icon: "fa fa-facebook-square"
   url: "https://www.facebook.com/sharer/sharer.php?u={url}"
-- telegram:
-  icon: "fa fa-telegram"
-  url: "https://t.me/share/url?url={url}&text={text}"
 - whatsapp:
   icon: "fa fa-whatsapp"
   url: "whatsapp://send?text={title}%20{url}"
@@ -31,6 +28,9 @@
 - copy_link:
   icon: "fa fa-link"
   url: ""
+- telegram:
+  icon: "fa fa-telegram"
+  url: "https://t.me/share/url?url={url}&text={text}"
 
 
 
