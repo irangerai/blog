@@ -16,9 +16,6 @@
 - linkedin:
   icon: "fa fa-linkedin-square"
   url: "https://www.linkedin.com/sharing/share-offsite/?url={url}"
-- skype:
-  icon: "fa fa-skype"
-  url: "https://web.skype.com/share?url={url}&text={text}"
 - odnoklassniki:
   icon: "fa fa-odnoklassniki-square"
   url: "https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&st.shareUrl={url}"
@@ -31,6 +28,9 @@
 - telegram:
   icon: "fa fa-telegram"
   url: "https://t.me/share/url?url={url}&text={text}"
+- skype:
+  icon: "fa fa-skype"
+  url: "https://web.skype.com/share?url={url}&text={text}"
 
 
 
